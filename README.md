@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Joás Jonson</h1>
 
 
-- 🌱 Análista de dados/BI .Atualmente estou aprendendo **Machine Learning(estudando) e AWS**
+- 🌱 Análise de dados/BI .Atualmente estou aprendendo **Machine Learning(estudando) e AWS**
 
 - 👨‍💻 Todos os meus projetos estão em [https://github.com/Joasjonson?tab=repositories](https://github.com/Joasjonson?tab=repositories)
 
