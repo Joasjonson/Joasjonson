@@ -8,7 +8,7 @@
 
     Tenho conhecimento em ***SQL***  e ***PYTHON*** focado em dados, desde a coleta e tratamentos até análises e modelos de Machine Learning.
 
-    Com ***POWER BI***, construção de painéis e dashboards interativos.
+    Com ***POWER BI***, construção e manutenção de painéis e dashboards interativos.
 
     ***Modelagem de dados***, processos ***ETL***, Datawarehouse .
 
