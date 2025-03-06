@@ -1,25 +1,20 @@
 <h1 align="center">Olá 👋</h1>
 
-I'm Joás and I'm 27 years old, Python developer focusing on the back end and also on data. I am currently looking for a role as a Python Developer/Data Analyst or related areas.
+I'm Joás, 28 years old, and I'm a Python backend developer.
 
 Skills:
 
-PYTHON for Data Analysis and Data Science. Web applications and APIs with FLASK.
-Skill in manipulating, extracting and analyzing data using PANDAS and SQL.
+My main focus is backend development with Python, creating and integrating applications and REST APIs, using frameworks such as Django and Flask.
+
+Skills in manipulating data, using tools such as Pandas, SQL and Power BI. Code versioning with Git and application deployment in Docker and AWS environments.
 
 Web Scraping: Ability to efficiently extract data from websites using Python.
 
-ETL and Data Modeling: Experience in ETL and data modeling ensuring the integrity and efficiency of analysis processes.
-
 Power BI: Creation and maintenance of Dashboards, data visualizations and storytelling.
 
-SSIS: Knowledge of SSIS (SQL Server Integration Services) for data integration and transformation.
+I constantly seek to improve my skills through projects and studies, applying good development and security practices.
 
-Cloud: Currently in the process of studying and improving cloud technologies to further improve my skills and knowledge.
-
-Git for version control.
-
-I am committed to continuing to learn and grow professionally, always seeking challenges and opportunities to apply my skills.
+I'm looking for opportunities where I can apply my technical skills and, at the same time, continue to evolve professionally.
 
 
 
