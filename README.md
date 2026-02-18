@@ -1,147 +1,97 @@
-#  Joás Jonson 
+# Joás Jonson
 
-**`Python Backend Developer`** 
+**`Backend Developer`**
+
 <p>
-I'm a Python backend developer focused on building and maintaining web applications and REST APIs using Django and Flask. I have about two years of hands-on experience in personal and academic projects, applying programming concepts, clean code practices, and basic security standards.
+Backend Developer focused on building <strong>secure, scalable, and well-structured REST APIs</strong>.
+I currently work with <strong>Java and Spring Boot</strong>, contributing to backend architecture,
+business rules implementation, authentication, and integrations with external services.
 
-I also have knowledge of data manipulation and analysis using SQL, Pandas, and Power BI.
+I also have experience with <strong>Python (Django and Flask)</strong>, as well as data manipulation and analysis
+using <strong>SQL, Pandas, and Power BI</strong>.
+I am familiar with cloud environments (<strong>AWS EC2 and S3</strong>), application containerization with <strong>Docker</strong>,
+and version control using <strong>Git</strong>.
 
-I use Docker to containerize applications and Git for version control.
-
-I'm also familiar with cloud services, especially AWS EC2 and S3, and with basic frontend technologies such as HTML and CSS.
-
-I'm always working to improve my skills through hands-on projects and seek opportunities for growth and contribution in backend development environments.
+I continuously work on improving my backend development skills, focusing on delivering
+robust, secure, and business-oriented solutions.
 </p>
 
 <p align="left">
-    <a href="www.linkedin.com/in/joasjonson">
+    <a href="https://www.linkedin.com/in/joasjonson">
         <img 
-            alt=" LinkedIn" 
+            alt="LinkedIn" 
             title="LinkedIn" 
-            src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"
         />
     </a>
     <a href="https://github.com/joasjonson">
         <img 
-            alt=" GitHub" 
+            alt="GitHub" 
             title="GitHub" 
-            src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"
+            src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"
         />
     </a>
     <a href="mailto:joasjonson@example.com">
         <img 
-            alt=" Email" 
+            alt="Email" 
             title="Email" 
-            src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"
+            src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"
         />
     </a>
 </p>
 
+---
 
+### 🛠️ Skills
 
-### 🛠  Skills
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-<img 
-    align="left" 
-    alt="Flask" 
-    title="Flask"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Rest API"
-    title="Rest API"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original-wordmark.svg" />
-<img 
-    align="left" 
-    alt="Git"
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML5" 
-    title="HTML5"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Pandas" 
-    title="Pandas"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="AWS" 
-    title="AWS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+
+<img align="left" alt="Django" title="Django" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+
+<img align="left" alt="Flask" title="Flask" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
+
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+
+<img align="left" alt="AWS" title="AWS" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+
+<img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 
 <br/>
 <br/>
 
-### 📊 Statistics
+---
 
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joasjonson&theme=tokyonight&layout=compact&custom_title=TechnologiesUsed&langs_count=4" 
+### 📊 GitHub Statistics
+
+<p align="left">
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=joasjonson&show_icons=true&theme=tokyonight&hide_border=true"
   />
-
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joasjonson&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
+
 
 
 <!--
